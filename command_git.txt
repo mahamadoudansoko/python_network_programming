@@ -1,0 +1,6 @@
+Command	What it translates to in English
+git add .	"Gather all my changed files."
+git commit -m "..."	"Take a snapshot/save point right now."
+git push	"Upload my new snapshots to the website."
+git log --oneline	"Show me a list of my past save points."
+git status	"Is my folder clean, or did I change something?"
